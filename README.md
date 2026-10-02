@@ -1,6 +1,8 @@
-# GSP QA Engineer Assessment – Part 1
+# GSP QA Engineer Assessment 
 
 Playwright + JavaScript automation suite for the Conduit Angular SPA.
+
+# Part 1 – Build
 
 ## Scope
 
